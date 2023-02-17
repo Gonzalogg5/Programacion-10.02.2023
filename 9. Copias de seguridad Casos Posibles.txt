@@ -1,0 +1,13 @@
+1.) Inicio = 7 --> 	copias habituales  Inicio-Fin
+
+2.) Inicio <> 7 --> 	copias habituales Inicio-Fin
+			última copia del día 7 (anterior a inicio)
+			copia diferencial del domigo anterior a inicio
+			copias incrementales desde el domingo anterior a inicio hasta nicio -1
+
+Ej.: Inicio-Fin --> 4 Enero- 3 Febrero
+copia 7 dic
+copia 28 dic
+copia incremental 1 enero
+copia incremental 2 enero
+copia incremental 3 enero

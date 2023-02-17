@@ -1,0 +1,3 @@
+Particionamiento de discos en Windows
+Completa las tareas que se indican en el documento del apartado de teoría "particionamiento de discos en windows".
+ Envíalo en formato PDF.
